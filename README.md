@@ -11,7 +11,7 @@ This project contains my practical work on common web application vulnerabilitie
 
 | Attack Name        | Description | Screenshot |
 |--------------------|-------------|------------|
-| SQL Injection      | Bypassing login forms by SQLi attack. | ![SQLi](Screenshots/Sql_Injection.png) |
+| SQL Injection      | Bypassing login forms by SQLi attack. | ![SQLi](Screenshots/SQL_Injection.png) |
 | CSRF Attack        | Exploiting Cross-Site Request Forgery to change password. | ![CSRF](screenshots/csrf_attack.png) |
 | Brute Force Attack | Trying multiple passwords automatically to crack accounts. | ![Brute Force](screenshots/brute_force.png) |
 | XSS Attack         | Injecting malicious scripts into web applications. | ![XSS](screenshots/xss_attack.png) |
